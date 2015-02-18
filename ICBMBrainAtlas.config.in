@@ -1,0 +1,16 @@
+AtlasName: ICBMBrainAtlas
+ColorTableFileName: @ICBMBrainAtlas_SOURCE_DIR@/Atlas/ICBMBrainAtlasColors.ctbl
+AdjacenciesFileName: @ICBMBrainAtlas_SOURCE_DIR@/Models/adjacencies.txt
+VolumeFileName: @ICBMBrainAtlas_SOURCE_DIR@/Atlas/ICBMBrainAtlasVolume.nrrd
+LabelFileName: @ICBMBrainAtlas_SOURCE_DIR@/Atlas/ICBMBrainAtlasLabels.nrrd
+ModelsDirectory: @ICBMBrainAtlas_SOURCE_DIR@/Models
+VTKDirectory: @ICBMBrainAtlas_SOURCE_DIR@/Models/VTK
+STLDirectory: @ICBMBrainAtlas_SOURCE_DIR@/Models/STL
+ScreenshotDirectory: @ICBMBrainAtlas_SOURCE_DIR@/Models/Screenshot
+ChangesDirectory: @ICBMBrainAtlas_SOURCE_DIR@/Changes
+StatisticsDirectory: @ICBMBrainAtlas_SOURCE_DIR@/Statistics
+MRMLDirectory: @ICBMBrainAtlas_BINARY_DIR@/MRML
+FiducialsDirectory: @ICBMBrainAtlas_BINARY_DIR@/Fiducials
+GitDirectory: @ICBMBrainAtlas_SOURCE_DIR@
+GitURL: https://github.com/lorensen/ICBMBrainAtlas
+GitWikiDirectory: @ICBMBrainAtlas_SOURCE_DIR@/wiki
