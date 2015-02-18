@@ -1,0 +1,12 @@
+Name:  Lateral_Geniculate_Nucleus
+Label: 8
+    count: 251
+    min: 1077
+    max: 2208
+    median: 1638.38
+    mean: 1921.01
+    sigma: 168.247
+    variance: 28307.2
+    sum: 482174
+    region: index(61, 98, 62) size(57, 10, 7)
+    bounding box: (61, 117) (98, 107) (62, 68) 

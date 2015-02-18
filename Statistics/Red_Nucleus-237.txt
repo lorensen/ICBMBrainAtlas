@@ -1,0 +1,12 @@
+Name:  Red_Nucleus
+Label: 237
+    count: 1130
+    min: 1735
+    max: 2082
+    median: 1638.38
+    mean: 1962.98
+    sigma: 50.3233
+    variance: 2532.44
+    sum: 2.21816e+06
+    region: index(81, 102, 58) size(19, 12, 11)
+    bounding box: (81, 99) (102, 113) (58, 68) 

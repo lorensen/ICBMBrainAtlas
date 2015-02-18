@@ -1,0 +1,12 @@
+Name:  Putamen
+Label: 14
+    count: 12561
+    min: 1071
+    max: 2449
+    median: 1638.38
+    mean: 1913.9
+    sigma: 122.385
+    variance: 14978.1
+    sum: 2.40406e+07
+    region: index(56, 78, 60) size(69, 70, 29)
+    bounding box: (56, 124) (78, 147) (60, 88) 

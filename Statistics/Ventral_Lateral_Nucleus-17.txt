@@ -1,0 +1,12 @@
+Name:  Ventral_Lateral_Nucleus
+Label: 17
+    count: 2610
+    min: 1590
+    max: 2255
+    median: 1638.38
+    mean: 2023.02
+    sigma: 79.477
+    variance: 6316.59
+    sum: 5.28008e+06
+    region: index(70, 107, 68) size(40, 11, 21)
+    bounding box: (70, 109) (107, 117) (68, 88) 

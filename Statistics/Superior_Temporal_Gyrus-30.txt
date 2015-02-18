@@ -1,0 +1,12 @@
+Name:  Superior_Temporal_Gyrus
+Label: 30
+    count: 67941
+    min: 409
+    max: 2232
+    median: 1638.38
+    mean: 1598.87
+    sigma: 234.912
+    variance: 55183.8
+    sum: 1.08629e+08
+    region: index(21, 52, 25) size(141, 102, 80)
+    bounding box: (21, 161) (52, 153) (25, 104) 

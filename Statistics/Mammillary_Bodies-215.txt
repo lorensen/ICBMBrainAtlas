@@ -1,0 +1,12 @@
+Name:  Mammillary_Bodies
+Label: 215
+    count: 114
+    min: 1131
+    max: 1910
+    median: 1638.38
+    mean: 1670.75
+    sigma: 132.406
+    variance: 17531.5
+    sum: 190465
+    region: index(86, 118, 55) size(10, 5, 6)
+    bounding box: (86, 95) (118, 122) (55, 60) 

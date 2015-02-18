@@ -1,0 +1,12 @@
+Name:  Cuneus
+Label: 40
+    count: 12799
+    min: 779
+    max: 2238
+    median: 1638.38
+    mean: 1642.85
+    sigma: 231.584
+    variance: 53630.9
+    sum: 2.10268e+07
+    region: index(60, 21, 67) size(87, 54, 46)
+    bounding box: (60, 146) (21, 74) (67, 112) 

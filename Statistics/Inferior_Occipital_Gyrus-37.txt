@@ -1,0 +1,12 @@
+Name:  Inferior_Occipital_Gyrus
+Label: 37
+    count: 25166
+    min: 266
+    max: 2135
+    median: 1638.38
+    mean: 1540.79
+    sigma: 313.958
+    variance: 98569.4
+    sum: 3.87755e+07
+    region: index(35, 22, 49) size(119, 48, 37)
+    bounding box: (35, 153) (22, 69) (49, 85) 

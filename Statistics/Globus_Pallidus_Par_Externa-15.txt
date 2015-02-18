@@ -1,0 +1,12 @@
+Name:  Globus_Pallidus_Par_Externa
+Label: 15
+    count: 2814
+    min: 1572
+    max: 2289
+    median: 1638.38
+    mean: 2038.54
+    sigma: 74.9012
+    variance: 5610.19
+    sum: 5.73645e+06
+    region: index(61, 111, 63) size(59, 24, 15)
+    bounding box: (61, 119) (111, 134) (63, 77) 

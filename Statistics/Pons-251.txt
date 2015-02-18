@@ -1,0 +1,12 @@
+Name:  Pons
+Label: 251
+    count: 20759
+    min: 741
+    max: 2015
+    median: 1638.38
+    mean: 1711.17
+    sigma: 130.049
+    variance: 16912.8
+    sum: 3.55222e+07
+    region: index(69, 81, 23) size(45, 39, 31)
+    bounding box: (69, 113) (81, 119) (23, 53) 

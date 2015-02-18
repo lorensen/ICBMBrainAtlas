@@ -1,0 +1,12 @@
+Name:  Middle_Temporal_Gyrus
+Label: 64
+    count: 52041
+    min: 232
+    max: 2217
+    median: 1638.38
+    mean: 1582.93
+    sigma: 238.889
+    variance: 57068
+    sum: 8.2377e+07
+    region: index(18, 52, 27) size(145, 99, 67)
+    bounding box: (18, 162) (52, 150) (27, 93) 

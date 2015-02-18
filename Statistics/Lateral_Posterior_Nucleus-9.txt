@@ -1,0 +1,12 @@
+Name:  Lateral_Posterior_Nucleus
+Label: 9
+    count: 918
+    min: 1640
+    max: 2186
+    median: 1638.38
+    mean: 1991.03
+    sigma: 90.298
+    variance: 8153.72
+    sum: 1.82776e+06
+    region: index(69, 102, 76) size(42, 6, 13)
+    bounding box: (69, 110) (102, 107) (76, 88) 

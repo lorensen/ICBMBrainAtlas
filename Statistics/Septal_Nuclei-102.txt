@@ -1,0 +1,12 @@
+Name:  Septal_Nuclei
+Label: 102
+    count: 2132
+    min: 800
+    max: 2304
+    median: 1638.38
+    mean: 1691.83
+    sigma: 203.64
+    variance: 41469.1
+    sum: 3.60698e+06
+    region: index(69, 127, 56) size(48, 8, 15)
+    bounding box: (69, 116) (127, 134) (56, 70) 

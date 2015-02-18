@@ -1,0 +1,12 @@
+Name:  Centromedian_Nucleus_Periacqual_Grey
+Label: 29
+    count: 2583
+    min: 845
+    max: 2333
+    median: 1638.38
+    mean: 1856.44
+    sigma: 279.664
+    variance: 78211.7
+    sum: 4.79518e+06
+    region: index(61, 83, 59) size(58, 58, 37)
+    bounding box: (61, 118) (83, 140) (59, 95) 

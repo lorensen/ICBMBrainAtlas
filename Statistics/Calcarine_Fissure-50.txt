@@ -1,0 +1,12 @@
+Name:  Calcarine_Fissure
+Label: 50
+    count: 11944
+    min: 724
+    max: 2123
+    median: 1638.38
+    mean: 1610.12
+    sigma: 244.848
+    variance: 59950.3
+    sum: 1.92312e+07
+    region: index(61, 28, 70) size(60, 41, 23)
+    bounding box: (61, 120) (28, 68) (70, 92) 

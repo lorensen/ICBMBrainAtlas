@@ -1,0 +1,12 @@
+Name:  Middle_Frontal_Gyrus
+Label: 28
+    count: 59092
+    min: 390
+    max: 2454
+    median: 1638.38
+    mean: 1749.14
+    sigma: 271.074
+    variance: 73481.3
+    sum: 1.0336e+08
+    region: index(34, 119, 58) size(111, 71, 79)
+    bounding box: (34, 144) (119, 189) (58, 136) 

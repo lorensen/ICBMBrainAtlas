@@ -1,0 +1,12 @@
+Name:  Superior_Occipital_Gyrus
+Label: 98
+    count: 17064
+    min: 315
+    max: 2146
+    median: 1638.38
+    mean: 1559.23
+    sigma: 324.844
+    variance: 105524
+    sum: 2.66067e+07
+    region: index(60, 20, 61) size(69, 34, 60)
+    bounding box: (60, 128) (20, 53) (61, 120) 

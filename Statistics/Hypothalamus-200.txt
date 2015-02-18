@@ -1,0 +1,12 @@
+Name:  Hypothalamus
+Label: 200
+    count: 767
+    min: 574
+    max: 2098
+    median: 1638.38
+    mean: 1417.15
+    sigma: 285.733
+    variance: 81643.3
+    sum: 1.08696e+06
+    region: index(85, 121, 51) size(13, 10, 14)
+    bounding box: (85, 97) (121, 130) (51, 64) 

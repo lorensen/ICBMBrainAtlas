@@ -1,0 +1,12 @@
+Name:  Medial_Geniculate_Nucleus
+Label: 39
+    count: 264
+    min: 1558
+    max: 2105
+    median: 1638.38
+    mean: 1869.34
+    sigma: 106.89
+    variance: 11425.4
+    sum: 493506
+    region: index(72, 98, 65) size(38, 7, 5)
+    bounding box: (72, 109) (98, 104) (65, 69) 

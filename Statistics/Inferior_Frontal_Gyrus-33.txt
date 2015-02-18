@@ -1,0 +1,12 @@
+Name:  Inferior_Frontal_Gyrus
+Label: 33
+    count: 47860
+    min: 501
+    max: 2493
+    median: 1638.38
+    mean: 1718.12
+    sigma: 302.484
+    variance: 91496.8
+    sum: 8.22291e+07
+    region: index(26, 119, 57) size(130, 55, 53)
+    bounding box: (26, 155) (119, 173) (57, 109) 

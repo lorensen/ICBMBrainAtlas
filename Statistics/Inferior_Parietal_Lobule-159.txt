@@ -1,0 +1,12 @@
+Name:  Inferior_Parietal_Lobule
+Label: 159
+    count: 30538
+    min: 335
+    max: 2273
+    median: 1638.38
+    mean: 1645.78
+    sigma: 286.432
+    variance: 82043.2
+    sum: 5.02588e+07
+    region: index(30, 29, 80) size(125, 49, 51)
+    bounding box: (30, 154) (29, 77) (80, 130) 

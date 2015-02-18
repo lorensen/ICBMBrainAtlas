@@ -1,0 +1,12 @@
+Name:  Parahippocampal_Gyrus
+Label: 18
+    count: 7333
+    min: 721
+    max: 2108
+    median: 1638.38
+    mean: 1523.33
+    sigma: 207.093
+    variance: 42887.5
+    sum: 1.11706e+07
+    region: index(56, 83, 35) size(72, 40, 41)
+    bounding box: (56, 127) (83, 122) (35, 75) 

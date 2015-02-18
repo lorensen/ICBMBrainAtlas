@@ -1,0 +1,12 @@
+Name:  Postcentral
+Label: 74
+    count: 58872
+    min: 177
+    max: 2371
+    median: 1638.38
+    mean: 1671.98
+    sigma: 331.763
+    variance: 110067
+    sum: 9.84326e+07
+    region: index(20, 70, 70) size(141, 60, 87)
+    bounding box: (20, 160) (70, 129) (70, 156) 

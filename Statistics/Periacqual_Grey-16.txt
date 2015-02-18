@@ -1,0 +1,12 @@
+Name:  Periacqual_Grey
+Label: 16
+    count: 151
+    min: 762
+    max: 1747
+    median: 1638.38
+    mean: 1505.34
+    sigma: 142.604
+    variance: 20335.8
+    sum: 227306
+    region: index(88, 91, 58) size(10, 14, 22)
+    bounding box: (88, 97) (91, 104) (58, 79) 

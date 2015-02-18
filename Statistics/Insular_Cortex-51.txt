@@ -1,0 +1,12 @@
+Name:  Insular_Cortex
+Label: 51
+    count: 20083
+    min: 751
+    max: 2183
+    median: 1638.38
+    mean: 1599.4
+    sigma: 208.035
+    variance: 43278.5
+    sum: 3.21208e+07
+    region: index(42, 51, 51) size(99, 104, 79)
+    bounding box: (42, 140) (51, 154) (51, 129) 

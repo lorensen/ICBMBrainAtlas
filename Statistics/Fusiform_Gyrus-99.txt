@@ -1,0 +1,12 @@
+Name:  Fusiform_Gyrus
+Label: 99
+    count: 35672
+    min: 474
+    max: 2139
+    median: 1638.38
+    mean: 1539.17
+    sigma: 215.726
+    variance: 46537.9
+    sum: 5.49052e+07
+    region: index(42, 40, 21) size(101, 111, 52)
+    bounding box: (42, 142) (40, 150) (21, 72) 

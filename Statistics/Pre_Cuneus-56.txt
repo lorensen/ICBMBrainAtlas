@@ -1,0 +1,12 @@
+Name:  Pre_Cuneus
+Label: 56
+    count: 31953
+    min: 485
+    max: 2277
+    median: 1638.38
+    mean: 1668.63
+    sigma: 248.662
+    variance: 61832.8
+    sum: 5.33177e+07
+    region: index(60, 41, 72) size(66, 40, 62)
+    bounding box: (60, 125) (41, 80) (72, 133) 

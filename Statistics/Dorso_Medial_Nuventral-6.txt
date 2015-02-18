@@ -1,0 +1,12 @@
+Name:  Dorso_Medial_Nuventral
+Label: 6
+    count: 3986
+    min: 744
+    max: 2250
+    median: 1638.38
+    mean: 1780.72
+    sigma: 187.526
+    variance: 35166
+    sum: 7.09796e+06
+    region: index(68, 91, 68) size(44, 12, 21)
+    bounding box: (68, 111) (91, 102) (68, 88) 

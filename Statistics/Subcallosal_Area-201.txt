@@ -1,0 +1,12 @@
+Name:  Subcallosal_Area
+Label: 201
+    count: 2330
+    min: 700
+    max: 2264
+    median: 1638.38
+    mean: 1562.89
+    sigma: 209.342
+    variance: 43824.2
+    sum: 3.64153e+06
+    region: index(73, 133, 47) size(39, 14, 24)
+    bounding box: (73, 111) (133, 146) (47, 70) 

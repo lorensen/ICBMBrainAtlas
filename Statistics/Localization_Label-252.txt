@@ -1,0 +1,12 @@
+Name:  Localization_Label
+Label: 252
+    count: 58
+    min: 1552
+    max: 1907
+    median: 1638.38
+    mean: 1769.24
+    sigma: 61.3189
+    variance: 3760.01
+    sum: 102616
+    region: index(82, 107, 68) size(16, 4, 4)
+    bounding box: (82, 97) (107, 110) (68, 71) 

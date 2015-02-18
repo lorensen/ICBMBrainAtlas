@@ -1,0 +1,12 @@
+Name:  Gyrus_Rectus
+Label: 86
+    count: 11579
+    min: 586
+    max: 2375
+    median: 1638.38
+    mean: 1674.05
+    sigma: 266.888
+    variance: 71229.4
+    sum: 1.93839e+07
+    region: index(75, 142, 43) size(35, 42, 28)
+    bounding box: (75, 109) (142, 183) (43, 70) 
