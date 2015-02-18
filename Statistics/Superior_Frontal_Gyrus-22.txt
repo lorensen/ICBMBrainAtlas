@@ -1,12 +1,12 @@
 Name:  Superior_Frontal_Gyrus
 Label: 22
-    count: 114603
+    count: 114605
     min: 595
     max: 2457
     median: 1638.38
     mean: 1728.56
-    sigma: 317.572
-    variance: 100852
-    sum: 1.98098e+08
+    sigma: 317.569
+    variance: 100850
+    sum: 1.98101e+08
     region: index(54, 96, 54) size(75, 103, 99)
     bounding box: (54, 128) (96, 198) (54, 152) 

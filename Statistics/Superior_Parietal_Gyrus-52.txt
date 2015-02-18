@@ -1,12 +1,12 @@
 Name:  Superior_Parietal_Gyrus
 Label: 52
-    count: 39726
+    count: 39729
     min: 602
     max: 2273
     median: 1638.38
-    mean: 1676.08
-    sigma: 282.821
-    variance: 79987.9
-    sum: 6.65841e+07
+    mean: 1676.06
+    sigma: 282.828
+    variance: 79991.7
+    sum: 6.65881e+07
     region: index(43, 51, 57) size(96, 97, 94)
     bounding box: (43, 138) (51, 147) (57, 150) 

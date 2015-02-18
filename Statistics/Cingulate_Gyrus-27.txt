@@ -1,12 +1,12 @@
 Name:  Cingulate_Gyrus
 Label: 27
-    count: 51044
+    count: 50876
     min: 830
     max: 2391
     median: 1638.38
-    mean: 1717.18
-    sigma: 248.805
-    variance: 61904
-    sum: 8.76516e+07
-    region: index(44, 64, 56) size(73, 116, 76)
-    bounding box: (44, 116) (64, 179) (56, 131) 
+    mean: 1717.16
+    sigma: 249.063
+    variance: 62032.4
+    sum: 8.73623e+07
+    region: index(68, 64, 56) size(49, 116, 76)
+    bounding box: (68, 116) (64, 179) (56, 131) 

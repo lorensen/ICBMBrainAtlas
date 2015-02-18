@@ -1,12 +1,12 @@
 Name:  Anterior_Commissure
 Label: 49
-    count: 273
+    count: 272
     min: 1246
     max: 2329
     median: 1638.38
-    mean: 2045.11
-    sigma: 150.601
-    variance: 22680.6
-    sum: 558316
-    region: index(69, 128, 61) size(44, 5, 12)
-    bounding box: (69, 112) (128, 132) (61, 72) 
+    mean: 2044.9
+    sigma: 150.837
+    variance: 22751.9
+    sum: 556213
+    region: index(69, 128, 61) size(44, 5, 9)
+    bounding box: (69, 112) (128, 132) (61, 69) 

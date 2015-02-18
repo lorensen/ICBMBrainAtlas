@@ -1,12 +1,12 @@
 Name:  Lateral_Fronto_Orbital_Gyrus
 Label: 44
-    count: 17902
+    count: 17915
     min: 412
     max: 2332
     median: 1638.38
-    mean: 1656.48
-    sigma: 276.474
-    variance: 76437.9
-    sum: 2.96543e+07
+    mean: 1656.09
+    sigma: 276.765
+    variance: 76598.7
+    sum: 2.96688e+07
     region: index(38, 142, 43) size(112, 54, 34)
     bounding box: (38, 149) (142, 195) (43, 76) 

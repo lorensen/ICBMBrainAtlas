@@ -1,12 +1,12 @@
 Name:  Cerebellum
 Label: 67
-    count: 185994
+    count: 186397
     min: 742
     max: 1940
     median: 1638.38
-    mean: 1447.72
-    sigma: 193.345
-    variance: 37382.1
-    sum: 2.69268e+08
+    mean: 1446.77
+    sigma: 194.264
+    variance: 37738.4
+    sum: 2.69673e+08
     region: index(30, 30, 9) size(119, 72, 68)
     bounding box: (30, 148) (30, 101) (9, 76) 

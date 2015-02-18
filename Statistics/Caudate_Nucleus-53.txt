@@ -1,12 +1,12 @@
 Name:  Caudate_Nucleus
 Label: 53
-    count: 14095
+    count: 14090
     min: 890
     max: 2484
     median: 1638.38
-    mean: 1872.61
-    sigma: 197.246
-    variance: 38906
-    sum: 2.63944e+07
+    mean: 1872.87
+    sigma: 196.767
+    variance: 38717.3
+    sum: 2.63887e+07
     region: index(57, 89, 58) size(68, 64, 40)
     bounding box: (57, 124) (89, 152) (58, 97) 

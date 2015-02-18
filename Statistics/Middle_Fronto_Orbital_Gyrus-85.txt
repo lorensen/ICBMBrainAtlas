@@ -1,12 +1,12 @@
 Name:  Middle_Fronto_Orbital_Gyrus
 Label: 85
-    count: 23028
+    count: 23029
     min: 462
     max: 2380
     median: 1638.38
-    mean: 1658.19
-    sigma: 274.076
-    variance: 75117.9
-    sum: 3.81848e+07
+    mean: 1658.2
+    sigma: 274.075
+    variance: 75117.2
+    sum: 3.81867e+07
     region: index(54, 131, 43) size(84, 66, 31)
     bounding box: (54, 137) (131, 196) (43, 73) 

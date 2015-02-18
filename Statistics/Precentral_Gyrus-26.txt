@@ -1,12 +1,12 @@
 Name:  Precentral_Gyrus
 Label: 26
-    count: 52293
+    count: 52295
     min: 456
     max: 2360
     median: 1638.38
-    mean: 1753.22
-    sigma: 289.23
-    variance: 83653.8
-    sum: 9.16812e+07
+    mean: 1753.21
+    sigma: 289.227
+    variance: 83652.1
+    sum: 9.16843e+07
     region: index(26, 86, 55) size(133, 61, 100)
     bounding box: (26, 158) (86, 146) (55, 154) 

@@ -1,12 +1,12 @@
 Name:  White_Matter
 Label: 11
-    count: 435476
+    count: 435674
     min: 734
     max: 2715
     median: 1638.38
-    mean: 2214.56
-    sigma: 158.475
-    variance: 25114.5
-    sum: 9.64388e+08
+    mean: 2214.29
+    sigma: 159.033
+    variance: 25291.5
+    sum: 9.64708e+08
     region: index(23, 22, 33) size(134, 171, 120)
     bounding box: (23, 156) (22, 192) (33, 152) 

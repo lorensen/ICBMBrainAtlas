@@ -1,12 +1,12 @@
 Name:  Hippocampus
 Label: 93
-    count: 20292
+    count: 20276
     min: 544
     max: 2279
     median: 1638.38
-    mean: 1594.13
-    sigma: 289.98
-    variance: 84088.3
-    sum: 3.23481e+07
-    region: index(51, 77, 41) size(81, 51, 52)
-    bounding box: (51, 131) (77, 127) (41, 92) 
+    mean: 1594.41
+    sigma: 289.732
+    variance: 83944.7
+    sum: 3.23283e+07
+    region: index(51, 77, 41) size(81, 51, 47)
+    bounding box: (51, 131) (77, 127) (41, 87) 
