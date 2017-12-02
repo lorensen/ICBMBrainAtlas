@@ -1,2 +1,2 @@
 [remote "origin"]
-	lfsurl = https://gitlab.kitware.com/lorensen/VTKExampleLFS.git/info/lfs
+	lfsurl = https://gitlab.kitware.com/lorensen/ICBMBrainAtlasLFS.git/info/lfs
