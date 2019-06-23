@@ -2,11 +2,11 @@ Name:  Paraventricular_Nucleus
 Label: 19
     count: 1092
     min: 834
-    max: 2098
-    median: 1638.38
-    mean: 1903.2
-    sigma: 114.01
-    variance: 12998.2
-    sum: 2.07829e+06
+    max: 2097
+    median: 1919.97
+    mean: 1903.16
+    sigma: 114.009
+    variance: 12998.1
+    sum: 2.07825e+06
     region: index(70, 102, 67) size(40, 6, 14)
     bounding box: (70, 109) (102, 107) (67, 80) 

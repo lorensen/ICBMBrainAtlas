@@ -2,11 +2,11 @@ Name:  Entorhinal_Area
 Label: 125
     count: 3054
     min: 876
-    max: 2018
-    median: 1638.38
-    mean: 1503.86
-    sigma: 173.237
-    variance: 30011.2
-    sum: 4.59278e+06
+    max: 2017
+    median: 1407.98
+    mean: 1503.73
+    sigma: 173.222
+    variance: 30005.8
+    sum: 4.59238e+06
     region: index(58, 122, 23) size(75, 13, 25)
     bounding box: (58, 132) (122, 134) (23, 47) 

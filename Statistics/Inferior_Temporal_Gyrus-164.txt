@@ -1,12 +1,12 @@
 Name:  Inferior_Temporal_Gyrus
 Label: 164
     count: 34989
-    min: 503
+    min: 502
     max: 2157
-    median: 1638.38
-    mean: 1545.99
-    sigma: 219.532
-    variance: 48194.2
-    sum: 5.40925e+07
+    median: 1407.98
+    mean: 1545.98
+    sigma: 219.531
+    variance: 48193.8
+    sum: 5.40922e+07
     region: index(20, 52, 23) size(140, 90, 56)
     bounding box: (20, 159) (52, 141) (23, 78) 

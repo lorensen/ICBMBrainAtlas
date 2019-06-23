@@ -1,12 +1,12 @@
 Name:  Middle_Occipital_Gyrus
 Label: 154
     count: 17855
-    min: 325
+    min: 324
     max: 2181
-    median: 1638.38
-    mean: 1581.14
-    sigma: 258.017
-    variance: 66572.9
-    sum: 2.82313e+07
+    median: 1663.97
+    mean: 1581.09
+    sigma: 258.014
+    variance: 66571.2
+    sum: 2.82304e+07
     region: index(32, 19, 60) size(120, 56, 45)
     bounding box: (32, 151) (19, 74) (60, 104) 

@@ -3,7 +3,7 @@ Label: 200
     count: 767
     min: 574
     max: 2098
-    median: 1638.38
+    median: 1407.98
     mean: 1417.15
     sigma: 285.733
     variance: 81643.3

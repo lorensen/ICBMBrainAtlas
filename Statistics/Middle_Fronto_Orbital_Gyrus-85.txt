@@ -3,10 +3,10 @@ Label: 85
     count: 23029
     min: 462
     max: 2380
-    median: 1638.38
-    mean: 1658.2
-    sigma: 274.075
-    variance: 75117.2
-    sum: 3.81867e+07
+    median: 1663.97
+    mean: 1658.12
+    sigma: 274.062
+    variance: 75110.2
+    sum: 3.81849e+07
     region: index(54, 131, 43) size(84, 66, 31)
     bounding box: (54, 137) (131, 196) (43, 73) 

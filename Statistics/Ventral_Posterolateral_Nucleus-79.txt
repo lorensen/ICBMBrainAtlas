@@ -2,11 +2,11 @@ Name:  Ventral_Posterolateral_Nucleus
 Label: 79
     count: 26
     min: 1522
-    max: 1825
-    median: 1638.38
-    mean: 1670.46
-    sigma: 69.5064
-    variance: 4831.14
-    sum: 43432
+    max: 1824
+    median: 1663.97
+    mean: 1670.42
+    sigma: 69.4177
+    variance: 4818.81
+    sum: 43431
     region: index(83, 104, 72) size(16, 21, 5)
     bounding box: (83, 98) (104, 124) (72, 76) 

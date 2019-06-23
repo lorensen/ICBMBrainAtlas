@@ -2,11 +2,11 @@ Name:  Medulla
 Label: 238
     count: 3139
     min: 1074
-    max: 1699
-    median: 1638.38
-    mean: 1522.21
+    max: 1698
+    median: 1663.97
+    mean: 1522.16
     sigma: 106.219
     variance: 11282.5
-    sum: 4.77822e+06
+    sum: 4.77807e+06
     region: index(76, 81, 19) size(31, 19, 14)
     bounding box: (76, 106) (81, 99) (19, 32) 

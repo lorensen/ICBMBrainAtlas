@@ -3,10 +3,10 @@ Label: 93
     count: 20276
     min: 544
     max: 2279
-    median: 1638.38
-    mean: 1594.41
-    sigma: 289.732
-    variance: 83944.7
-    sum: 3.23283e+07
+    median: 1663.97
+    mean: 1594.31
+    sigma: 289.714
+    variance: 83934
+    sum: 3.23263e+07
     region: index(51, 77, 41) size(81, 51, 47)
     bounding box: (51, 131) (77, 127) (41, 87) 

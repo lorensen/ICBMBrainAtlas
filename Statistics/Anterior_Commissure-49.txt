@@ -3,10 +3,10 @@ Label: 49
     count: 272
     min: 1246
     max: 2329
-    median: 1638.38
-    mean: 2044.9
-    sigma: 150.837
-    variance: 22751.9
-    sum: 556213
+    median: 2175.97
+    mean: 2044.85
+    sigma: 150.817
+    variance: 22745.8
+    sum: 556199
     region: index(69, 128, 61) size(44, 5, 9)
     bounding box: (69, 112) (128, 132) (61, 69) 

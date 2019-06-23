@@ -3,10 +3,10 @@ Label: 44
     count: 17915
     min: 412
     max: 2332
-    median: 1638.38
-    mean: 1656.09
-    sigma: 276.765
-    variance: 76598.7
-    sum: 2.96688e+07
+    median: 1663.97
+    mean: 1656.01
+    sigma: 276.761
+    variance: 76596.7
+    sum: 2.96674e+07
     region: index(38, 142, 43) size(112, 54, 34)
     bounding box: (38, 149) (142, 195) (43, 76) 

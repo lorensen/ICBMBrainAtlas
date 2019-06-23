@@ -3,10 +3,10 @@ Label: 159
     count: 30539
     min: 335
     max: 2273
-    median: 1638.38
-    mean: 1645.75
-    sigma: 286.459
-    variance: 82058.6
-    sum: 5.02597e+07
+    median: 1663.97
+    mean: 1645.69
+    sigma: 286.457
+    variance: 82057.7
+    sum: 5.02576e+07
     region: index(30, 29, 80) size(125, 49, 51)
     bounding box: (30, 154) (29, 77) (80, 130) 

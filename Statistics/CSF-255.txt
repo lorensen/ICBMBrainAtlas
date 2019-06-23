@@ -3,10 +3,10 @@ Label: 255
     count: 31240
     min: 459
     max: 2146
-    median: 1638.38
-    mean: 861.28
-    sigma: 308.321
-    variance: 95061.7
-    sum: 2.69064e+07
+    median: 639.99
+    mean: 861.223
+    sigma: 308.298
+    variance: 95047.6
+    sum: 2.69046e+07
     region: index(54, 64, 17) size(77, 93, 87)
     bounding box: (54, 130) (64, 156) (17, 103) 

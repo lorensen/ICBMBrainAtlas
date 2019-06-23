@@ -3,10 +3,10 @@ Label: 29
     count: 2590
     min: 845
     max: 2333
-    median: 1638.38
-    mean: 1854.67
-    sigma: 281.488
-    variance: 79235.8
-    sum: 4.80359e+06
+    median: 1919.97
+    mean: 1854.57
+    sigma: 281.458
+    variance: 79218.4
+    sum: 4.80334e+06
     region: index(61, 83, 59) size(58, 58, 37)
     bounding box: (61, 118) (83, 140) (59, 95) 

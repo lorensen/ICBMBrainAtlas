@@ -3,10 +3,10 @@ Label: 56
     count: 31954
     min: 485
     max: 2277
-    median: 1638.38
-    mean: 1668.64
-    sigma: 248.661
-    variance: 61832.5
-    sum: 5.33196e+07
+    median: 1663.97
+    mean: 1668.56
+    sigma: 248.638
+    variance: 61821.1
+    sum: 5.33172e+07
     region: index(60, 41, 72) size(66, 40, 62)
     bounding box: (60, 125) (41, 80) (72, 133) 

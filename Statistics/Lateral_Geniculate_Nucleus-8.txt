@@ -3,10 +3,10 @@ Label: 8
     count: 251
     min: 1077
     max: 2208
-    median: 1638.38
-    mean: 1921.01
-    sigma: 168.247
-    variance: 28307.2
-    sum: 482174
+    median: 1919.97
+    mean: 1920.9
+    sigma: 168.225
+    variance: 28299.8
+    sum: 482145
     region: index(61, 98, 62) size(57, 10, 7)
     bounding box: (61, 117) (98, 107) (62, 68) 

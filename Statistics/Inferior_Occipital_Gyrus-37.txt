@@ -3,10 +3,10 @@ Label: 37
     count: 25166
     min: 266
     max: 2135
-    median: 1638.38
-    mean: 1540.77
-    sigma: 313.964
-    variance: 98573.5
-    sum: 3.8775e+07
+    median: 1663.97
+    mean: 1540.72
+    sigma: 313.961
+    variance: 98571.6
+    sum: 3.87738e+07
     region: index(35, 22, 49) size(119, 48, 37)
     bounding box: (35, 153) (22, 69) (49, 85) 

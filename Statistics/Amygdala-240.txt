@@ -3,10 +3,10 @@ Label: 240
     count: 4850
     min: 684
     max: 1810
-    median: 1638.38
-    mean: 1521.54
-    sigma: 128.186
-    variance: 16431.7
-    sum: 7.37947e+06
+    median: 1407.98
+    mean: 1521.46
+    sigma: 128.175
+    variance: 16428.8
+    sum: 7.37906e+06
     region: index(50, 116, 40) size(79, 19, 21)
     bounding box: (50, 128) (116, 134) (40, 60) 

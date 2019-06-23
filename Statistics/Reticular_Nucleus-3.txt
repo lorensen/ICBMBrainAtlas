@@ -3,10 +3,10 @@ Label: 3
     count: 2161
     min: 1449
     max: 2213
-    median: 1638.38
-    mean: 1995.99
-    sigma: 74.5429
-    variance: 5556.65
-    sum: 4.31333e+06
+    median: 1919.97
+    mean: 1995.94
+    sigma: 74.5564
+    variance: 5558.66
+    sum: 4.31322e+06
     region: index(75, 112, 70) size(31, 12, 20)
     bounding box: (75, 105) (112, 123) (70, 89) 
